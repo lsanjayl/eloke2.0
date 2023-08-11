@@ -1,192 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--  created with sitemap generator https://octopus.do  -->
 
-
-<url>
-  <loc>https://elokeglobal.com/</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/index.html</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/contact</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/privacypolicy</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/termsofuse</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/works</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/about-us</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/services</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/team</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/home-blog</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-los-coyotes</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-lifes-stories</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-style-scape</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-percent</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-taller-alvarado</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/single-post</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-snaps-app</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-ink-sense</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-vibrant-horizons</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-curology</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-dynamic-expose</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-en-vogue</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-soul-of-structures</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-immersive-realities</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-austeria</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-mayless-trailer</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-nyc-street-life</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-pastel-ladies</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-primo</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-sauz-hothoney</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-spirits</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-architexture</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-uxunleashed</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-beach-brown</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://elokeglobal.com/pages/project-synchronicity</loc>
-  <lastmod>2023-08-05T10:37:52+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-
-
+    <url>
+        <loc>https://elokeglobal.com/pages/</loc>
+        <lastmod>2023-08-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+       <url>
+        <loc>https://elokeglobal.com/pages/services</loc>
+        <lastmod>2023-08-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+       <url>
+        <loc>https://elokeglobal.com/pages/works</loc>
+        <lastmod>2023-08-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+   
+    
+    <url>
+        <loc>https://elokeglobal.com/pages/about-us</loc>
+        <lastmod>2023-08-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+       <url>
+        <loc>https://elokeglobal.com/pages/contact</loc>
+        <lastmod>2023-08-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+ 
 </urlset>
