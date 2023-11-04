@@ -241,13 +241,13 @@ Monday – Friday
 
 
 <div class="nayla-form">
-<form action="https://naylahtml.pethemes.com/" method="post">
+<form name="contact" method="post" data-netlify="true">
 
 <div class="field-wrap">
 <label>
 Company Name
 </label>
-<input type="text" required autocomplete="off" pattern="\d{4,4}">
+<input type="text" name="Company Name" required autocomplete="off" pattern="\d{4,4}">
 </div>
 
 
@@ -255,7 +255,7 @@ Company Name
 <label>
 Your Name
 </label>
-<input type="text" required autocomplete="off">
+<input type="text" name="Name" required autocomplete="off">
 </div>
 
 
@@ -263,7 +263,7 @@ Your Name
 <label>
 Phone number
 </label>
-<input type="tel" required autocomplete="off">
+<input type="tel" name="Phone number" required autocomplete="off">
 </div>
 
 
@@ -271,7 +271,7 @@ Phone number
 <label>
 E-mail
 </label>
-<input type="email" required autocomplete="off">
+<input type="email" name="E-mail" required autocomplete="off">
 </div>
 
 
@@ -279,7 +279,7 @@ E-mail
 <label>
 Subject
 </label>
-<input type="text" required autocomplete="off">
+<input type="text" nme="Subject" required autocomplete="off">
 </div>
 
 
@@ -287,7 +287,7 @@ Subject
 <label>
 Your message
 </label>
-<textarea rows="8"></textarea>
+<textarea rows="8" name="message"></textarea>
 </div>
 
 
